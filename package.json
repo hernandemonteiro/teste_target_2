@@ -1,0 +1,17 @@
+{
+  "name": "teste_target_2",
+  "version": "1.0.0",
+  "description": "Teste para Estágio - Target Sistemas",
+  "scripts": {
+    "faturamento_dados": "tsx ./src/faturamento_dados.ts",
+    "faturamento": "tsx ./src/faturamento.ts",
+    "fibonacci": "tsx ./src/fibonacci.ts",
+    "somatorio": "tsx ./src/somatorio.ts",
+    "inverso": "tsx ./src/inverso.ts"
+  },
+  "author": "Hernande Monteiro <monteiro1998@live.com>",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "tsx": "^4.19.0"
+  }
+}
